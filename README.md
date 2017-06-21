@@ -1,4 +1,4 @@
-# studying-while-eating-pizza-problem
+# student-pizza-problem
 
 ### Problem Statement
 The students can study only while eating pizza. Each student executes the following loop:
